@@ -17,9 +17,9 @@ class Javascript {
             }],
         "menus": { //we will get back to this in a later tutorial
         }
-    };
+    }
     eval({string}) {
         return eval(string)
-    };
+    }
 }
 Scratch.extensions.register(new Javascript());
