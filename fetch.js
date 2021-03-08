@@ -23,3 +23,4 @@ class Javascript {
         return eval(string)
     };
 }
+Scratch.extensions.register(new Javascript());
