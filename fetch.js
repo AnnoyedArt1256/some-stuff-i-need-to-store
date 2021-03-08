@@ -8,7 +8,6 @@ class Javascript {
                     "blockType": "reporter",
                     "text": "eval [string]",
                     "arguments": {
-                        "num1": {
                         "string": {
                             "type": "string",
                             "defaultValue": 'alert("Hello World!")'
